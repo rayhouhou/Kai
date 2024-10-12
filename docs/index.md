@@ -39,7 +39,6 @@ Kai is designed to handle a wide range of KYC-related workloads, including:
 **Client Onboarding:**
 
 * Initial risk assessment and categorization
-* Document verification and validation
 * Beneficial ownership identification
 
 
@@ -47,8 +46,6 @@ Kai is designed to handle a wide range of KYC-related workloads, including:
 
 * Periodic client review scheduling and execution
 * Transaction monitoring and analysis
-* Adverse media screening
-
 
 **Risk Assessment:**
 
@@ -59,7 +56,6 @@ Kai is designed to handle a wide range of KYC-related workloads, including:
 
 **Regulatory Reporting:**
 
-* Suspicious activity report (SAR) generation
 * Automated regulatory report compilation
 * Audit trail creation and management
 
@@ -91,8 +87,6 @@ Kai's architecture and functionality are guided by five core design principles:
 
 * Utilizes Kafka for real-time event processing
 * Employs flexible data transit and consumption for agile response to KYC events
-* Implements adaptive learning algorithms to continuously improve performance
-* Seamlessly integrates with various AI models through advanced workflow solutions
 
 
 **Risk-Based Continuous Compliance**
@@ -135,8 +129,9 @@ By adhering to these principles, Kai not only meets the complex demands of moder
 ## Next Steps
 To dive deeper into Kai's capabilities and learn how to leverage its full potential in your projects, explore the following sections:
 
-* Technical Documentation
-* User Guides
-* API Reference
-* Best Practices
-* FAQ
+
+Technical Documentation
+User Guides
+API Reference
+Best Practices
+FAQ
