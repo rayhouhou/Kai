@@ -129,9 +129,9 @@ By adhering to these principles, Kai not only meets the complex demands of moder
 ## Next Steps
 To dive deeper into Kai's capabilities and learn how to leverage its full potential in your projects, explore the following sections:
 
-
-Technical Documentation
-User Guides
-API Reference
-Best Practices
-FAQ
+- [High Level Solution Design](./high-level-design)
+- [Technical Documentation](./technical-docs)
+- [User Guides](./user-guides)
+- [API Reference](./api-reference)
+- [Best Practices](./best-practices)
+- [FAQ](./faq)
