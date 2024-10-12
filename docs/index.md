@@ -129,8 +129,9 @@ By adhering to these principles, Kai not only meets the complex demands of moder
 ## Next Steps
 To dive deeper into Kai's capabilities and learn how to leverage its full potential in your projects, explore the following sections:
 
-- [High Level Solution Design](./high-level-design)
-- [Technical Documentation](./technical-docs)
+- [High Level Solution Design](high-level-design.md)
+- [Data Design](./kai-data-design-flow.md)
+- [Design: RAG and Policies and Procedures](./kai-rag-implementation.md)
 - [User Guides](./user-guides)
 - [API Reference](./api-reference)
 - [Best Practices](./best-practices)
