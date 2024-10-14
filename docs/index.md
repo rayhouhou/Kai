@@ -132,7 +132,7 @@ To dive deeper into Kai's capabilities and learn how to leverage its full potent
 - [High Level Solution Design](high-level-design.md)
 - [Data Design](./kai-data-design-flow.md)
 - [Design: RAG and Policies and Procedures](./kai-rag-implementation.md)
-- [User Guides](./user-guides)
-- [API Reference](./api-reference)
-- [Best Practices](./best-practices)
-- [FAQ](./faq)
+- Coming soon: User Guides
+- Coming soon: API Reference
+- Coming soon: Best Practices
+- Coming soon: FAQ

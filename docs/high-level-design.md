@@ -60,7 +60,7 @@ The Orchestration Layer manages the workflow of KYC processes within Kai.
 
 ### 3.1 Orchestration
 - **Purpose**: Workflow Management
-- **Description**: This component, which is yet to be fully determined, will be responsible for managing the complex workflows involved in KYC processes. It will coordinate tasks between different components of the system, ensuring that KYC investigations are carried out efficiently and effectively.
+- **Description**: This component is implemented thanks to Autogen which will be responsible for managing the complex workflows involved in KYC processes. It will coordinate tasks between different components of the system, ensuring that KYC investigations are carried out efficiently and effectively.
 
 ## 4. User Interface Layer
 
@@ -73,7 +73,7 @@ The User Interface Layer is where users interact with Kai.
 
 ## Data Flow
 
-1. Shadowtraffic generates synthetic KYC data.
+1. Shadowtraffic generates synthetic KYC data for demo and testing purposes.
 2. The data is streamed through Kafka in real-time.
 3. The LLM Layer processes the events, using the Prompt Library, Policies and Procedures, and Guardrails to make informed decisions.
 4. The Orchestration Layer manages the workflow of the KYC process.
